@@ -1,2 +1,1 @@
-koa-playground
-==============
+Koa - http://koajs.com/
