@@ -26,5 +26,8 @@
     "mocha": "*",
     "should": "*",
     "supertest": "*"
-  }
+  },
+  "engines": {
+    "node": ">= 11.3"
+  },
 }
