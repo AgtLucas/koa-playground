@@ -4,5 +4,6 @@
   "description": "Testing Koa + Heroku",
   "main": "web.js",
   "dependencies": {
+    "koa": "^0.5.0"
   }
 }
